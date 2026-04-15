@@ -1,6 +1,6 @@
 🛒 Omnichannel Multimodal AI Sales Agent (n8n + Qdrant + WooCommerce)
 
-![alt text]([URL_DE_TU_CAPTURA_DE_PANTALLA.png](https://raw.githubusercontent.com/Vangard-Repo/ecommerce-ai-inventory-bot/main/ai-ecommerce-omnicanal-sales-agent.PNG))
+![alt text](https://raw.githubusercontent.com/Vangard-Repo/ecommerce-ai-inventory-bot/main/ai-ecommerce-omnicanal-sales-agent.PNG)
 
 
 🚀 Sobre este Proyecto
